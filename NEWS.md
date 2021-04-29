@@ -1,6 +1,22 @@
+## qtl2convert 0.24 (2021-04-28)
+
+### Minor changes
+
+- Added function `cross2_do_to_genail8()` for converting a cross2
+  object of type `"do"` to one of type `"genail8"`. Also present with
+  the alias `cross2_do_to_genail()`.
+
+- Removed `LazyData` field from DESCRIPTION file
+
+### Bug fixes
+
+- Needed to fix use of `nchar()` in `encode_geno()` as it no longer
+  works properly with data frames.
+
+
 ## qtl2convert 0.22-7 (2020-06-30)
 
-## Minor changes
+### Minor changes
 
 Cosmetic changes to prepare for posting to CRAN:
 
