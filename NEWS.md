@@ -1,3 +1,11 @@
+## qtl2convert 0.26 (2021-10-06)
+
+### Minor changes
+
+- Added function `cross2_ril_to_genril()` for converting a cross2
+  object of type `"riln"` to one of type `"genriln"` for some `n`.
+
+
 ## qtl2convert 0.24 (2021-04-28)
 
 ### Minor changes

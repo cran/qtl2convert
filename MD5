@@ -1,11 +1,12 @@
-97e486b2c46e4fc599aa37e3759eca7e *DESCRIPTION
-c4ffd653b8c74f1c890df5f0efdf7da7 *NAMESPACE
-ead2fada58a9c3739d9cedd241caa852 *NEWS.md
+ef833561985a5dd6ad31097b1f878e4b *DESCRIPTION
+246be14c4488a7235380a6ac93407706 *NAMESPACE
+c570d679c437c092958768f263e33318 *NEWS.md
 159b269c1d9a3ce2b156abc3340aaa23 *R/RcppExports.R
 c479ffd3dd3f376d8018231d605653e0 *R/cbind_smother.R
 c2a526163a1a9f7e5d632aa70f0bd5f6 *R/cluster_util.R
 c2eae99968623e6da8ce14ce99e4f266 *R/count_unique_geno.R
 59f39124962977fda1bc0c68f8551de9 *R/cross2_do_to_genail8.R
+887945317ca8218c567296294b419d9e *R/cross2_ril_to_genril.R
 aad95de2e6bcf53a29ddb72f39600fcb *R/encode_geno.R
 8ae7af487f5b8fb557bdc26e277c71bf *R/find_consensus_geno.R
 c230fdd17bf51d247d9e1f5694573126 *R/find_unique_geno.R
@@ -24,6 +25,7 @@ a4b216a29e0f6ac1635ee06f9bbf943b *R/test_util.R
 25490bd7816d6289339aa6dced41d9e4 *man/cbind_smother.Rd
 25364252a34a6485474dd69279c52116 *man/count_unique_geno.Rd
 e622ff072c768662cc503b494ddbc683 *man/cross2_do_to_genail8.Rd
+5e18dd27b444f47582041715b56ce6ae *man/cross2_ril_to_genril.Rd
 db5094328d66f7b09b0e345c0a17fa66 *man/encode_geno.Rd
 fbbefc8f0d3b02a74791d71d5a1c3f15 *man/find_consensus_geno.Rd
 aa3edfd5ce062bcb0be1bd50c25fbb33 *man/find_unique_geno.Rd
