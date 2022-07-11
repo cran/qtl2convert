@@ -1,3 +1,8 @@
+## qtl2convert 0.28 (2022-07-11)
+
+- Fixed typo in the NEWS.md file that results in a Note on CRAN.
+
+
 ## qtl2convert 0.26 (2021-10-06)
 
 ### Minor changes
@@ -161,7 +166,7 @@ Cosmetic changes to prepare for posting to CRAN:
 
 ## qtl2convert 0.5-3 (2017-04-29)
 
-## Minor changes
+### Minor changes
 
 - Add `overwrite` argument to `write2csv`. If `overwrite=TRUE`, write
   over file if it exists; if `overwrite=FALSE`, stop with an error.
