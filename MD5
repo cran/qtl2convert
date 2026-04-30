@@ -1,6 +1,6 @@
-5d9962ae4c5faf0594bd21331a737a7b *DESCRIPTION
+aa88fd066d850c684ab7ebc1ef65257e *DESCRIPTION
 246be14c4488a7235380a6ac93407706 *NAMESPACE
-acb24133bcd1cf40bf2543e11711937a *NEWS.md
+e2c0db2ac3e4cc981306a3758a3bc258 *NEWS.md
 159b269c1d9a3ce2b156abc3340aaa23 *R/RcppExports.R
 c479ffd3dd3f376d8018231d605653e0 *R/cbind_smother.R
 c2a526163a1a9f7e5d632aa70f0bd5f6 *R/cluster_util.R
@@ -39,10 +39,10 @@ d1b88794f80dec23dd7a48630e7291ef *man/probs_qtl2_to_array.Rd
 7d1851f11e7978d5a586dbb364e44acf *man/scan_qtl2_to_qtl.Rd
 0323c3d8c0c16fa6c1522f0a60d0f8f8 *man/scan_qtl_to_qtl2.Rd
 063c125624436aa5aa50f84bcb161560 *man/write2csv.Rd
-eeb43f6ee7b8292ada1b6df07001760c *src/RcppExports.cpp
+46431ecf10b8feb802a72223f5fc9f69 *src/RcppExports.cpp
 8bd6d470f962a4eb8e2c44d3bdb64f6f *src/count_unique_geno.cpp
 701aa3bc8ece12b657853eab6a0791ed *src/count_unique_geno.h
-c891bfbceffaf83987716c4aaf3793ad *src/encode_geno.cpp
+6d4008d28c96a184ffc046c64d637fbf *src/encode_geno.cpp
 f81ca56e8a1fa2379d451e3f983f3d20 *src/encode_geno.h
 824e70338d47c47130aaee18e2d5ab14 *src/find_consensus_geno.cpp
 1f53a71416be3b9507bc7d024ed851fc *src/find_consensus_geno.h
