@@ -1,6 +1,6 @@
-aa88fd066d850c684ab7ebc1ef65257e *DESCRIPTION
+1033fec3a22dea9e59fce5c783569fcc *DESCRIPTION
 246be14c4488a7235380a6ac93407706 *NAMESPACE
-e2c0db2ac3e4cc981306a3758a3bc258 *NEWS.md
+295711d0b88c99e55cda130c7b02a9e5 *NEWS.md
 159b269c1d9a3ce2b156abc3340aaa23 *R/RcppExports.R
 c479ffd3dd3f376d8018231d605653e0 *R/cbind_smother.R
 c2a526163a1a9f7e5d632aa70f0bd5f6 *R/cluster_util.R
@@ -15,13 +15,13 @@ a2ffd2d54fe05ea3ef8a5ebe2e3ab16c *R/map_df_to_list.R
 5c3c5c0325a97a29f91977448ed17176 *R/probs_doqtl_to_qtl2.R
 6f20e52b815e2108a302c3a944030712 *R/probs_qtl2_to_array.R
 80e82118904f440a054952f9ef276435 *R/probs_qtl2_to_doqtl.R
-3154e939fe355bbe9dc0aa5a38a9de51 *R/probs_qtl_to_qtl2.R
+9a1e3cc55874334234f81bdac499c0a8 *R/probs_qtl_to_qtl2.R
 44264a5696cb852c260ffb611f84495b *R/qtl2convert-package.R
 ee88c5e03f8139c1a874d1b6320fd975 *R/scan_qtl2_to_qtl.R
 3f7f05b9cc3aa9ad4cb0b5f1624de686 *R/scan_qtl_to_qtl2.R
 a4b216a29e0f6ac1635ee06f9bbf943b *R/test_util.R
 141444da58536332ddc68c4c2cc625ca *R/write2csv.R
-380f199250a0eae0280ae6645a7d59df *README.md
+4754cafa15ec64a42ed0e1d57658d7e7 *README.md
 25490bd7816d6289339aa6dced41d9e4 *man/cbind_smother.Rd
 25364252a34a6485474dd69279c52116 *man/count_unique_geno.Rd
 e622ff072c768662cc503b494ddbc683 *man/cross2_do_to_genail8.Rd
@@ -35,7 +35,7 @@ d3b8e157b5a307b341a46f5ebf26abc9 *man/map_list_to_df.Rd
 d1b88794f80dec23dd7a48630e7291ef *man/probs_qtl2_to_array.Rd
 57be85a5821369ea232aebee177a70cc *man/probs_qtl2_to_doqtl.Rd
 1c6652ceca2d47bf90c41b7fa710c71a *man/probs_qtl_to_qtl2.Rd
-9329a2bf806b9dc309468e4ef0ae280b *man/qtl2convert-package.Rd
+14a71f2ad0332df4bfea92c0e8671402 *man/qtl2convert-package.Rd
 7d1851f11e7978d5a586dbb364e44acf *man/scan_qtl2_to_qtl.Rd
 0323c3d8c0c16fa6c1522f0a60d0f8f8 *man/scan_qtl_to_qtl2.Rd
 063c125624436aa5aa50f84bcb161560 *man/write2csv.Rd
