@@ -1,6 +1,6 @@
 Package: qtl2convert
-Version: 0.34
-Date: 2026-06-09
+Version: 0.36
+Date: 2026-07-17
 Title: Convert Data among QTL Mapping Packages
 Description: Functions to convert data structures among the 'qtl2', 'qtl', and 'DOQTL' packages for mapping quantitative trait loci (QTL).
 Author: Karl W Broman [aut, cre] (ORCID:
@@ -20,6 +20,6 @@ Encoding: UTF-8
 ByteCompile: true
 Config/roxygen2/version: 8.0.0
 NeedsCompilation: yes
-Packaged: 2026-06-09 12:33:21 UTC; kbroman
+Packaged: 2026-07-17 19:41:10 UTC; kbroman
 Repository: CRAN
-Date/Publication: 2026-06-09 13:40:02 UTC
+Date/Publication: 2026-07-17 20:20:02 UTC

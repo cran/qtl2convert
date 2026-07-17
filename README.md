@@ -5,8 +5,6 @@
 [![r-universe badge](https://rqtl.r-universe.dev/qtl2convert/badges/version)](https://rqtl.r-universe.dev/qtl2convert)
 [![zenodo DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3237774.svg)](https://doi.org/10.5281/zenodo.3237774)
 
-[Karl Broman](https://kbroman.org)
-
 [R/qtl2](https://kbroman.org/qtl2/) (aka qtl2) is a reimplementation of
 the QTL analysis software [R/qtl](https://rqtl.org), to better handle
 high-dimensional data and complex cross designs.
@@ -43,6 +41,6 @@ remotes::install_github("rqtl/qtl2convert")
 
 ---
 
-#### License
+### License
 
 Licensed under [GPL-3](https://www.r-project.org/Licenses/GPL-3).
